@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515885876 source:f:\project\tamrin2\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+

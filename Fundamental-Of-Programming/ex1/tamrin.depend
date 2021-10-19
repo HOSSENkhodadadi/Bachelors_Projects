@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1514855531 source:f:\project\tamrin\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+
