@@ -1,6 +1,6 @@
 
-%% AMIRABBAS_ALISHARI_JALAL
-%% Code No. 95242101
+%% HOSSEIN_KHODADADI
+%% Student No. 96242035
 %% Signals&Systems_Proj.
 %**************************************************************************
 [x1,Ts ]= audioread('speech_dft_8kHz.wav'); % signal ro mikhoone!
